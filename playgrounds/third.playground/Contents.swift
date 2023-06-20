@@ -1,4 +1,6 @@
 /*:
  ## Absolutely necessary to start here! 🙃
  */
-// "Hello World"
+
+
+print("Hello World")
